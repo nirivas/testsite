@@ -1,6 +1,6 @@
 ---
 title: "Team"
-image: laurn.jpg
+image: SEL_logo
 about: 
   template: trestles
   image-shape: round
