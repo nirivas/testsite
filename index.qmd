@@ -1,0 +1,30 @@
+---
+title: "Santos Seascape Ecology Lab"
+image: laurn.jpg
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 15em
+  links: 
+   - text: Email
+     icon: envelope
+     href: mailto:noreply@email.zz
+  id: ppc
+    
+---
+
+:::{#ppc}
+
+Testing
+![test](New.png)
+
+did it work?
+:::
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
