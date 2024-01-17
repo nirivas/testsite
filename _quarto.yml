@@ -10,14 +10,13 @@ website:
         text: Home
       - about.qmd
       - Team.qmd
+      - contact.qmd
 
 format:
   html:
-    theme: sandstone
+    theme: yeti
     mainfont: arial
     fontsize: 1.5rem
-    fontcolor: "#0013d5"
-    linkcolor: "#ff33f0"
     monofont: courier new
     css: styles.css
     toc: true

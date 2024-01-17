@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Santos Seascape Ecology Lab",
+    "title": "SEL",
     "section": "",
-    "text": "Email\n  \n\n  \n  \nTesting \ndid it work?\n\n\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Under Construction"
   },
   {
     "objectID": "about.html",
@@ -18,14 +18,14 @@
     "href": "Team.html",
     "title": "Team",
     "section": "",
-    "text": "Rolando Santos"
+    "text": "Email\n  \n\n  \n  \nTesting \ndid it work?\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "Team.html#principle-investigator",
     "href": "Team.html#principle-investigator",
     "title": "Team",
-    "section": "",
-    "text": "Rolando Santos"
+    "section": "Principle Investigator",
+    "text": "Principle Investigator\n\nRolando Santos"
   },
   {
     "objectID": "Team.html#post-docs",
