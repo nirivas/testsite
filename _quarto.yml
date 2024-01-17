@@ -8,12 +8,14 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - rolo.qmd
       - about.qmd
       - Team.qmd
       - contact.qmd
 
 format:
   html:
+    page-layout: full
     theme: yeti
     mainfont: arial
     fontsize: 1.5rem

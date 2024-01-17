@@ -1,0 +1,11 @@
+---
+title: "Dr. Rolando Santos"
+---
+
+
+<div style="overflow: hidden; margin-bottom: 15px; margin-left: 10px;">
+  <img src="rolo1.jpg" alt="Siren Before" style="float: left; margin-right: 20px; width: 320px; height: 426px; margin-bottom: 10px;" />
+  <p style="font-size: 18px; color: black; margin-top: 20px;">
+    I am a marine spatial ecologist, focusing my research on the restoration and resilience of marine habitats and faunal responses to multi-scale habitat characteristics. Research interests center on the application of landscape ecology concepts in marine ecosystems to study the influence of spatial structure and habitat heterogeneity on the patterning of marine communities, and species interactions, distribution, and movement. My current work uses a combination of modeling and quantitative methods that integrate multiple catch and environmental datasets to identify the underlying drivers of bonefish dynamics in Florida Bay.
+  </p>
+</div>
