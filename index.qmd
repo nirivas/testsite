@@ -10,12 +10,11 @@ title: ""
 </p>
 
 
-##About Us
+<span style="font-size: 50px;">**About Us**
 
-Watcha want here Rolo?
-
-
-
+<span style="margin-bottom: 60px; display: block;">
+    Seascape Ecology at its finest. rolo let me know what you would like here?
+</span>
 
 
 ![](SEL_logo.png)
