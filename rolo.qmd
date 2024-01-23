@@ -6,30 +6,49 @@ title: "Dr. Rolando Santos"
 <div style="overflow: hidden; margin-bottom: 15px; margin-left: 10px;">
   <img src="rolo1.jpg" alt="Siren Before" style="float: left; margin-right: 20px; width: 320px; height: 426px; margin-bottom: 10px;" />
   <p style="font-size: 18px; color: black; margin-top: 20px;">
+    <span style="font-size: 20px;">**About Me**</span>
+    <br>
+    <br>
     I am a marine spatial ecologist, focusing my research on the restoration and resilience of marine habitats and faunal responses to multi-scale habitat characteristics. Research interests center on the application of landscape ecology concepts in marine ecosystems to study the influence of spatial structure and habitat heterogeneity on the patterning of marine communities, and species interactions, distribution, and movement. My current work uses a combination of modeling and quantitative methods that integrate multiple catch and environmental datasets to identify the underlying drivers of bonefish dynamics in Florida Bay.
   </p>
 </div>
 
 
+
+
+<!-- Add a space here -->
+<div style="margin-bottom: 20px;"></div>
+
+<!-- The rest of your text goes here -->
+
+
+
 ## Teaching
 
-I currently teach the following courses:
+ <p style="font-size: 18px; color: black; margin-top: 20px;">
+   I currently teach the following courses:
 PCB 5423, Advanced Ecology: Populations and Communities (co-taught with J. Trexler)
+  </p>
+
 
 ## Mentoring
 
-I currently advise 2 post doctoral fellows and 5 graduate students. Here are details on the students:
 
-William Ryan James, Ph.D. Biology. Post Doctoral fellow.
+<style>
+.custom-container {
+    font-size: 18px;
+    color: black;
+    margin-top: 20px;
+}
+</style>
 
-Nicolas Rivas, Ph.D. Biology. Tracking coral and reef fish population dynamics.
+<div class="custom-container">
+   I currently advise 2 post-doctoral fellows and 5 graduate students. Here are details on the students:
 
-Gina Badlowski, Ph.D. Biology. Staple Isotope Queen.
-
-Marianna Coppola, Ph.D. Biology. Remote Sensing Queen.
-
-Hannah-Marie Lamle, Ph.D. Biology. Queen.
-
-Valentina Bautista, Ph.D. Biology. Functional Trait Queen.
-
-
+   - **William Ryan James**, Ph.D. Biology. Post-Doctoral Fellow.
+   - **Nicolas Rivas**, Ph.D. Biology. Tracking coral and reef fish population dynamics.
+   - **Gina Badlowski**, Ph.D. Biology. Staple Isotope Queen.
+   - **Marianna Coppola**, Ph.D. Biology. Remote Sensing Queen.
+   - **Hannah-Marie Lamle**, Ph.D. Biology. Queen.
+   - **Valentina Bautista**, Ph.D. Biology. Functional Trait Queen.
+</div>

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "SEL",
     "section": "",
-    "text": "Victoria it’s Under Construction!"
+    "text": "Victoria it’s Under Construction! \n\nAbout Us\n Seascape Ecology at its finest. rolo let me know what you would like here?"
   },
   {
     "objectID": "about.html",
@@ -39,7 +39,7 @@
     "href": "rolo.html",
     "title": "Dr. Rolando Santos",
     "section": "",
-    "text": "I am a marine spatial ecologist, focusing my research on the restoration and resilience of marine habitats and faunal responses to multi-scale habitat characteristics. Research interests center on the application of landscape ecology concepts in marine ecosystems to study the influence of spatial structure and habitat heterogeneity on the patterning of marine communities, and species interactions, distribution, and movement. My current work uses a combination of modeling and quantitative methods that integrate multiple catch and environmental datasets to identify the underlying drivers of bonefish dynamics in Florida Bay."
+    "text": "About Me   I am a marine spatial ecologist, focusing my research on the restoration and resilience of marine habitats and faunal responses to multi-scale habitat characteristics. Research interests center on the application of landscape ecology concepts in marine ecosystems to study the influence of spatial structure and habitat heterogeneity on the patterning of marine communities, and species interactions, distribution, and movement. My current work uses a combination of modeling and quantitative methods that integrate multiple catch and environmental datasets to identify the underlying drivers of bonefish dynamics in Florida Bay."
   },
   {
     "objectID": "Team.html#graduate-students",
@@ -67,13 +67,20 @@
     "href": "rolo.html#teaching",
     "title": "Dr. Rolando Santos",
     "section": "Teaching",
-    "text": "Teaching\nI currently teach the following courses: PCB 5423, Advanced Ecology: Populations and Communities (co-taught with J. Trexler)"
+    "text": "Teaching\n\nI currently teach the following courses: PCB 5423, Advanced Ecology: Populations and Communities (co-taught with J. Trexler)"
   },
   {
     "objectID": "rolo.html#mentoring",
     "href": "rolo.html#mentoring",
     "title": "Dr. Rolando Santos",
     "section": "Mentoring",
-    "text": "Mentoring\nI currently advise 2 post doctoral fellows and 5 graduate students. Here are details on the students:\nWilliam Ryan James, Ph.D. Biology. Post Doctoral fellow.\nNicolas Rivas, Ph.D. Biology. Tracking coral and reef fish population dynamics.\nGina Badlowski, Ph.D. Biology. Staple Isotope Queen.\nMarianna Coppola, Ph.D. Biology. Remote Sensing Queen.\nHannah-Marie Lamle, Ph.D. Biology. Queen.\nValentina Bautista, Ph.D. Biology. Functional Trait Queen."
+    "text": "Mentoring\n\n\nI currently advise 2 post-doctoral fellows and 5 graduate students. Here are details on the students:\n\nWilliam Ryan James, Ph.D. Biology. Post-Doctoral Fellow.\nNicolas Rivas, Ph.D. Biology. Tracking coral and reef fish population dynamics.\nGina Badlowski, Ph.D. Biology. Staple Isotope Queen.\nMarianna Coppola, Ph.D. Biology. Remote Sensing Queen.\nHannah-Marie Lamle, Ph.D. Biology. Queen.\nValentina Bautista, Ph.D. Biology. Functional Trait Queen."
+  },
+  {
+    "objectID": "index.html#about-us",
+    "href": "index.html#about-us",
+    "title": "SEL",
+    "section": "About Us",
+    "text": "About Us\nWatcha want here Rolo?\nWe do shrimp, we do corals, we do fish, we fly drones, you like the sea?\nYou like ecology? BAM SEASCAPE ECOLOGY"
   }
 ]
