@@ -9,7 +9,6 @@ website:
       - href: index.qmd
         text: Home
       - rolo.qmd
-      - about.qmd
       - Team.qmd
       - contact.qmd
 
